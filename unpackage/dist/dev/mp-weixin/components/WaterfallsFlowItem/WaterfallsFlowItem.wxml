@@ -1,0 +1,1 @@
+<view class="wf-item-page data-v-6a7a6e0e"><image class="item-img data-v-6a7a6e0e" src="{{item.image}}" mode="widthFix"></image><view class="item-info data-v-6a7a6e0e"><image class="info-avatar data-v-6a7a6e0e" src="{{item.avatar}}" mode="aspectFill"></image><view class="info-nickname data-v-6a7a6e0e">{{item.nickName}}</view></view></view>
