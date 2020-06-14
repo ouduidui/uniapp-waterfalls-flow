@@ -97,7 +97,7 @@
 						this.boxHeight[leftOrRight] = res.height;
 						this.mark = this.mark + 1;
 					}).exec();
-				},20)
+				},50)
 			},
 			itemTap(item){
 				this.$emit('itemTap',item)
