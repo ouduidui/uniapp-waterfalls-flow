@@ -1,7 +1,0 @@
-{
-  "navigationBarTitleText": "uni-app",
-  "enablePullDownRefresh": true,
-  "usingComponents": {
-    "waterfalls-flow": "/components/WaterfallsFlow/WaterfallsFlow"
-  }
-}

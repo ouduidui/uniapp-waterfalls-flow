@@ -1,1 +1,0 @@
-<view class="page data-v-5afce4dc"><waterfalls-flow vue-id="8dd740cc-1" wfList="{{list}}" data-event-opts="{{[['^itemTap',[['itemTap']]]]}}" bind:itemTap="__e" class="data-v-5afce4dc" bind:__l="__l"></waterfalls-flow></view>
